@@ -1,5 +1,5 @@
 #include<iostream>
-#include"student.hpp"
+#include"./DataType/student.hpp"
 
 int main()
 {
