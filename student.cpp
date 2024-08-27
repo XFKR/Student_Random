@@ -3,5 +3,5 @@
 
 int Student::getid()
 {
-    
+    return Student::id;
 }
