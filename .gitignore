@@ -1,8 +1,11 @@
 ./.vscode/
+./out/
 ./out/*
 ./out/build/build/.cmake
 ./out/build/build/.cmake/*
 ./out/build/build/CMakeFiles
+./out/build/build/CMakeFiles/*
 ./out/build/build/DataStruct
+./out/build/build/DataStruct/*
 ./out/build/build/Testing
-./out/
+./out/build/build/Testing/*
