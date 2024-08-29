@@ -41,15 +41,21 @@ CMakeFiles/Student_Random.dir/main.cpp.obj
  D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/range_access.h
  D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/std_abs.h
  D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_algobase.h
+ D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_bvector.h
+ D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_construct.h
  D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_function.h
  D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_iterator.h
  D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_iterator_base_funcs.h
  D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_iterator_base_types.h
  D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_pair.h
+ D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_relops.h
+ D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_uninitialized.h
+ D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_vector.h
  D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/streambuf.tcc
  D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/streambuf_iterator.h
  D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/string_view.tcc
  D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stringfwd.h
+ D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/vector.tcc
  D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cctype
  D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cerrno
  D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/clocale
@@ -83,6 +89,8 @@ CMakeFiles/Student_Random.dir/main.cpp.obj
  D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/system_error
  D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/type_traits
  D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/typeinfo
+ D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/utility
+ D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/vector
  D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h
  D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/c++allocator.h
  D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h
@@ -132,5 +140,5 @@ CMakeFiles/Student_Random.dir/main.cpp.obj
  D:/App/MinGW64/mingw64/x86_64-w64-mingw32/include/vadefs.h
  D:/App/MinGW64/mingw64/x86_64-w64-mingw32/include/wchar.h
  D:/App/MinGW64/mingw64/x86_64-w64-mingw32/include/wctype.h
- D:/Code/CPlusPlus/Student_Random/DataStruct/student.hpp
+ D:/Code/CPlusPlus/Student_Random/DataStruct/students.hpp
 

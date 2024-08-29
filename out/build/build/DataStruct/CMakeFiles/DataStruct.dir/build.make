@@ -68,28 +68,28 @@ include DataStruct/CMakeFiles/DataStruct.dir/progress.make
 # Include the compile flags for this target's objects.
 include DataStruct/CMakeFiles/DataStruct.dir/flags.make
 
-DataStruct/CMakeFiles/DataStruct.dir/student.cpp.obj: DataStruct/CMakeFiles/DataStruct.dir/flags.make
-DataStruct/CMakeFiles/DataStruct.dir/student.cpp.obj: D:/Code/CPlusPlus/Student_Random/DataStruct/student.cpp
-DataStruct/CMakeFiles/DataStruct.dir/student.cpp.obj: DataStruct/CMakeFiles/DataStruct.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\Code\CPlusPlus\Student_Random\out\build\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object DataStruct/CMakeFiles/DataStruct.dir/student.cpp.obj"
-	cd /d D:\Code\CPlusPlus\Student_Random\out\build\build\DataStruct && D:\App\MinGW64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT DataStruct/CMakeFiles/DataStruct.dir/student.cpp.obj -MF CMakeFiles\DataStruct.dir\student.cpp.obj.d -o CMakeFiles\DataStruct.dir\student.cpp.obj -c D:\Code\CPlusPlus\Student_Random\DataStruct\student.cpp
+DataStruct/CMakeFiles/DataStruct.dir/students.cpp.obj: DataStruct/CMakeFiles/DataStruct.dir/flags.make
+DataStruct/CMakeFiles/DataStruct.dir/students.cpp.obj: D:/Code/CPlusPlus/Student_Random/DataStruct/students.cpp
+DataStruct/CMakeFiles/DataStruct.dir/students.cpp.obj: DataStruct/CMakeFiles/DataStruct.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\Code\CPlusPlus\Student_Random\out\build\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object DataStruct/CMakeFiles/DataStruct.dir/students.cpp.obj"
+	cd /d D:\Code\CPlusPlus\Student_Random\out\build\build\DataStruct && D:\App\MinGW64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT DataStruct/CMakeFiles/DataStruct.dir/students.cpp.obj -MF CMakeFiles\DataStruct.dir\students.cpp.obj.d -o CMakeFiles\DataStruct.dir\students.cpp.obj -c D:\Code\CPlusPlus\Student_Random\DataStruct\students.cpp
 
-DataStruct/CMakeFiles/DataStruct.dir/student.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/DataStruct.dir/student.cpp.i"
-	cd /d D:\Code\CPlusPlus\Student_Random\out\build\build\DataStruct && D:\App\MinGW64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Code\CPlusPlus\Student_Random\DataStruct\student.cpp > CMakeFiles\DataStruct.dir\student.cpp.i
+DataStruct/CMakeFiles/DataStruct.dir/students.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/DataStruct.dir/students.cpp.i"
+	cd /d D:\Code\CPlusPlus\Student_Random\out\build\build\DataStruct && D:\App\MinGW64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Code\CPlusPlus\Student_Random\DataStruct\students.cpp > CMakeFiles\DataStruct.dir\students.cpp.i
 
-DataStruct/CMakeFiles/DataStruct.dir/student.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/DataStruct.dir/student.cpp.s"
-	cd /d D:\Code\CPlusPlus\Student_Random\out\build\build\DataStruct && D:\App\MinGW64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Code\CPlusPlus\Student_Random\DataStruct\student.cpp -o CMakeFiles\DataStruct.dir\student.cpp.s
+DataStruct/CMakeFiles/DataStruct.dir/students.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/DataStruct.dir/students.cpp.s"
+	cd /d D:\Code\CPlusPlus\Student_Random\out\build\build\DataStruct && D:\App\MinGW64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Code\CPlusPlus\Student_Random\DataStruct\students.cpp -o CMakeFiles\DataStruct.dir\students.cpp.s
 
 # Object files for target DataStruct
 DataStruct_OBJECTS = \
-"CMakeFiles/DataStruct.dir/student.cpp.obj"
+"CMakeFiles/DataStruct.dir/students.cpp.obj"
 
 # External object files for target DataStruct
 DataStruct_EXTERNAL_OBJECTS =
 
-DataStruct/libDataStruct.a: DataStruct/CMakeFiles/DataStruct.dir/student.cpp.obj
+DataStruct/libDataStruct.a: DataStruct/CMakeFiles/DataStruct.dir/students.cpp.obj
 DataStruct/libDataStruct.a: DataStruct/CMakeFiles/DataStruct.dir/build.make
 DataStruct/libDataStruct.a: DataStruct/CMakeFiles/DataStruct.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=D:\Code\CPlusPlus\Student_Random\out\build\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library libDataStruct.a"

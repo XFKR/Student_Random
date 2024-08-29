@@ -15,9 +15,10 @@ add_executable(Student_Random main.cpp)
 
 #添加子目录
 add_subdirectory(DataStruct) #数据结构
+# add_subdirectory(csvReader)  #.csv文件读取
 #添加链接库
 target_link_libraries(Student_Random DataStruct)
-
+# target_link_libraries(Student_Random csvReader)
 
 include(CTest)
 enable_testing()

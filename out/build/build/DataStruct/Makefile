@@ -159,29 +159,29 @@ DataStruct/fast:
 	cd /d D:\Code\CPlusPlus\Student_Random\out\build\build && $(MAKE) $(MAKESILENT) -f DataStruct\CMakeFiles\DataStruct.dir\build.make DataStruct/CMakeFiles/DataStruct.dir/build
 .PHONY : DataStruct/fast
 
-student.obj: student.cpp.obj
-.PHONY : student.obj
+students.obj: students.cpp.obj
+.PHONY : students.obj
 
 # target to build an object file
-student.cpp.obj:
-	cd /d D:\Code\CPlusPlus\Student_Random\out\build\build && $(MAKE) $(MAKESILENT) -f DataStruct\CMakeFiles\DataStruct.dir\build.make DataStruct/CMakeFiles/DataStruct.dir/student.cpp.obj
-.PHONY : student.cpp.obj
+students.cpp.obj:
+	cd /d D:\Code\CPlusPlus\Student_Random\out\build\build && $(MAKE) $(MAKESILENT) -f DataStruct\CMakeFiles\DataStruct.dir\build.make DataStruct/CMakeFiles/DataStruct.dir/students.cpp.obj
+.PHONY : students.cpp.obj
 
-student.i: student.cpp.i
-.PHONY : student.i
+students.i: students.cpp.i
+.PHONY : students.i
 
 # target to preprocess a source file
-student.cpp.i:
-	cd /d D:\Code\CPlusPlus\Student_Random\out\build\build && $(MAKE) $(MAKESILENT) -f DataStruct\CMakeFiles\DataStruct.dir\build.make DataStruct/CMakeFiles/DataStruct.dir/student.cpp.i
-.PHONY : student.cpp.i
+students.cpp.i:
+	cd /d D:\Code\CPlusPlus\Student_Random\out\build\build && $(MAKE) $(MAKESILENT) -f DataStruct\CMakeFiles\DataStruct.dir\build.make DataStruct/CMakeFiles/DataStruct.dir/students.cpp.i
+.PHONY : students.cpp.i
 
-student.s: student.cpp.s
-.PHONY : student.s
+students.s: students.cpp.s
+.PHONY : students.s
 
 # target to generate assembly for a file
-student.cpp.s:
-	cd /d D:\Code\CPlusPlus\Student_Random\out\build\build && $(MAKE) $(MAKESILENT) -f DataStruct\CMakeFiles\DataStruct.dir\build.make DataStruct/CMakeFiles/DataStruct.dir/student.cpp.s
-.PHONY : student.cpp.s
+students.cpp.s:
+	cd /d D:\Code\CPlusPlus\Student_Random\out\build\build && $(MAKE) $(MAKESILENT) -f DataStruct\CMakeFiles\DataStruct.dir\build.make DataStruct/CMakeFiles/DataStruct.dir/students.cpp.s
+.PHONY : students.cpp.s
 
 # Help Target
 help:
@@ -195,9 +195,9 @@ help:
 	@echo ... rebuild_cache
 	@echo ... test
 	@echo ... DataStruct
-	@echo ... student.obj
-	@echo ... student.i
-	@echo ... student.s
+	@echo ... students.obj
+	@echo ... students.i
+	@echo ... students.s
 .PHONY : help
 
 

@@ -40,15 +40,21 @@ CMakeFiles/Student_Random.dir/main.cpp.obj: D:/Code/CPlusPlus/Student_Random/mai
   D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/range_access.h \
   D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/std_abs.h \
   D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_algobase.h \
+  D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_bvector.h \
+  D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_construct.h \
   D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_function.h \
   D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_iterator.h \
   D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_iterator_base_funcs.h \
   D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_iterator_base_types.h \
   D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_pair.h \
+  D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_relops.h \
+  D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_uninitialized.h \
+  D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_vector.h \
   D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/streambuf.tcc \
   D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/streambuf_iterator.h \
   D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/string_view.tcc \
   D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stringfwd.h \
+  D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/vector.tcc \
   D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cctype \
   D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cerrno \
   D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/clocale \
@@ -82,6 +88,8 @@ CMakeFiles/Student_Random.dir/main.cpp.obj: D:/Code/CPlusPlus/Student_Random/mai
   D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/system_error \
   D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/type_traits \
   D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/typeinfo \
+  D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/utility \
+  D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/vector \
   D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h \
   D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/c++allocator.h \
   D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
@@ -131,7 +139,7 @@ CMakeFiles/Student_Random.dir/main.cpp.obj: D:/Code/CPlusPlus/Student_Random/mai
   D:/App/MinGW64/mingw64/x86_64-w64-mingw32/include/vadefs.h \
   D:/App/MinGW64/mingw64/x86_64-w64-mingw32/include/wchar.h \
   D:/App/MinGW64/mingw64/x86_64-w64-mingw32/include/wctype.h \
-  D:/Code/CPlusPlus/Student_Random/DataStruct/student.hpp
+  D:/Code/CPlusPlus/Student_Random/DataStruct/students.hpp
 
 
 D:/Code/CPlusPlus/Student_Random/main.cpp:
@@ -190,8 +198,6 @@ D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/cxxabi_
 
 D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/cxxabi_init_exception.h:
 
-D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ext/new_allocator.h:
-
 D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/exception.h:
 
 D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_iterator_base_funcs.h:
@@ -203,6 +209,8 @@ D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/functex
 D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/ios_base.h:
 
 D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/istream.tcc:
+
+D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/vector.tcc:
 
 D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/locale_classes.h:
 
@@ -220,6 +228,8 @@ D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/locale_
 
 D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cctype:
 
+D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_bvector.h:
+
 D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/localefwd.h:
 
 D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/memoryfwd.h:
@@ -232,15 +242,11 @@ D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/ostream
 
 D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/predefined_ops.h:
 
-D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/exception:
-
 D:/App/MinGW64/mingw64/x86_64-w64-mingw32/include/sys/types.h:
 
 D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_pair.h:
 
 D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/ptr_traits.h:
-
-D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ext/numeric_traits.h:
 
 D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/std_abs.h:
 
@@ -250,15 +256,23 @@ D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_ite
 
 D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_algobase.h:
 
+D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/streambuf.tcc:
+
+D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_construct.h:
+
 D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_iterator_base_types.h:
 
-D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/streambuf.tcc:
+D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_relops.h:
+
+D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/limits:
+
+D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_uninitialized.h:
+
+D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_vector.h:
 
 D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/streambuf_iterator.h:
 
 D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/string_view.tcc:
-
-D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ext/atomicity.h:
 
 D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stringfwd.h:
 
@@ -270,9 +284,17 @@ D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/debug/debug.
 
 D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/debug/assertions.h:
 
-D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ext/string_conversions.h:
+D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/exception:
 
 D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ext/alloc_traits.h:
+
+D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ext/atomicity.h:
+
+D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ext/new_allocator.h:
+
+D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ext/numeric_traits.h:
+
+D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ext/string_conversions.h:
 
 D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/ext/type_traits.h:
 
@@ -285,8 +307,6 @@ D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iosfwd:
 D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream:
 
 D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream:
-
-D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/limits:
 
 D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/new:
 
@@ -307,6 +327,10 @@ D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/string:
 D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/system_error:
 
 D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/typeinfo:
+
+D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/utility:
+
+D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/vector:
 
 D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/atomic_word.h:
 
@@ -394,4 +418,4 @@ D:/App/MinGW64/mingw64/x86_64-w64-mingw32/include/wchar.h:
 
 D:/App/MinGW64/mingw64/x86_64-w64-mingw32/include/wctype.h:
 
-D:/Code/CPlusPlus/Student_Random/DataStruct/student.hpp:
+D:/Code/CPlusPlus/Student_Random/DataStruct/students.hpp:

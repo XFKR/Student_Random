@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/DataStruct.dir/student.cpp.obj"
-  "CMakeFiles/DataStruct.dir/student.cpp.obj.d"
+  "CMakeFiles/DataStruct.dir/students.cpp.obj"
+  "CMakeFiles/DataStruct.dir/students.cpp.obj.d"
   "libDataStruct.a"
   "libDataStruct.pdb"
 )

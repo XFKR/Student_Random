@@ -129,4 +129,12 @@ CMakeFiles/Student_Random.dir/main.cpp.obj: \
  D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/ostream.tcc \
  D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/istream \
  D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/istream.tcc \
- D:/Code/CPlusPlus/Student_Random/DataStruct/student.hpp
+ D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/vector \
+ D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_construct.h \
+ D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_uninitialized.h \
+ D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/utility \
+ D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_relops.h \
+ D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_vector.h \
+ D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_bvector.h \
+ D:/App/MinGW64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/vector.tcc \
+ D:/Code/CPlusPlus/Student_Random/DataStruct/students.hpp
