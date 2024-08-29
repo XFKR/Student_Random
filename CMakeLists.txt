@@ -1,7 +1,7 @@
 #指定最小CMake版本
 cmake_minimum_required(VERSION 3.30.2)
 #初始化项目
-project(Student_Random VERSION 0.0.1 LANGUAGES C CXX)
+project(Student_Random VERSION 1.0.0 LANGUAGES C CXX)
 
 #设置 C/C++版本
 set(CMAKE_C_STANDARD 17)
