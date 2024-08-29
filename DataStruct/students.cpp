@@ -8,7 +8,7 @@ Students::Students(FILE* _fpcsv)
 {
     char c; //读取的字符
     std::string str=""; //进行写入的字符串
-    while (true) //在EOF之前持续读入
+    while (!feof(_fpcsv)) //在EOF之前持续读入
     {
         c=getc(_fpcsv); //获取字符
         if (c==-1){ //EOF
